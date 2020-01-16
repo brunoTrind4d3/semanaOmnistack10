@@ -20,6 +20,7 @@ body {
 
 body,
 input,
-button {
+button,
+strong {
   font-display: Roboto, sans-serif;
 }
